@@ -1,4 +1,4 @@
----
+mwryalzmr@gmail.com---
 title: Marking issues or pull requests as a duplicate
 intro: Mark an issue or pull request as a duplicate to track similar issues or pull requests together and remove unnecessary burden for both maintainers and collaborators.
 redirect_from:
